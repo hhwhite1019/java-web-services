@@ -9,7 +9,7 @@ public interface IsAlive {
 }
 
 @WebService
-public interface HelloWorld {
+public interface Stop {
 
 	@WebMethod public String sayHelloWorld(String name);
 }
